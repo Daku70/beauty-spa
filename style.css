@@ -133,8 +133,8 @@
     inset 0 -1px 0 rgba(0, 0, 0, 0.03);
 
   /* Animation */
-  --duration-fast: 90ms;
-  --duration-normal: 150ms;
+  --duration-fast: 20ms;
+  --duration-normal: 50ms;
   --ease-standard: cubic-bezier(0.16, 1, 0.3, 1);
 
   /* Layout */
